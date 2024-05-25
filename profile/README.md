@@ -10,3 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## Todo
+[Modeling and Simulation of Walking Robots](https://kr.mathworks.com/videos/modeling-and-simulation-of-walking-robots-1576560207573.html)
